@@ -11,8 +11,6 @@ public class Main {
             System.out.println("Enter parameters like this: 1 + 1");
             return;
         }
-
-
     }
 
 }
