@@ -6,4 +6,5 @@ public interface PrimitiveCalculator {
         public double mul(double a, double b);
         public double div(double a, double b);
 
+
 }
